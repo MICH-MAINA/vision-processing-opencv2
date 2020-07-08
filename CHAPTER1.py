@@ -3,7 +3,7 @@ print("package is installed")
 
 #Read an image and show
 
-#img = cv2.imread("RESOURCES/Instagram Lately _ MrsCasual.jpg")
+img = cv2.imread("RESOURCES/Instagram Lately _ MrsCasual.jpg")
 
 #Read a video and display it 
 #cv2.imshow("Read Image", img)
